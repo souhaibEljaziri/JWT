@@ -1,0 +1,3 @@
+use PROCESS
+db.createCollection("User")
+db.User.insert({   "_id": ObjectId(),   "fullname": "Foulen ben Foulen",   "email": "foulen@app.sa",   "password": "hashed_password"  // Replace with actual hashed password })

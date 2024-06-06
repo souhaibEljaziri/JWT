@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-native-run-configurations" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="remove-java-aware-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="E:\systemnote\systemnote4\platforms\android\.idea\codeStyles\Project.xml" timestamp="1612392251072" />
+    <file path="E:\systemnote\systemnote4\platforms\android\.idea\gradle.xml" timestamp="1612392421123" />
+    <file path="E:\systemnote\systemnote4\platforms\android\.idea\libraries\Gradle__com_android_support_support_annotations_27_1_1_jar.xml" timestamp="1612392421134" />
+    <file path="E:\systemnote\systemnote4\platforms\android\.idea\misc.xml" timestamp="1612392421112" />
+    <file path="E:\systemnote\systemnote4\platforms\android\.idea\modules.xml" timestamp="1612392421119" />
+    <file path="E:\systemnote\systemnote4\platforms\android\.idea\runConfigurations.xml" timestamp="1612392242602" />
+    <file path="E:\systemnote\systemnote4\platforms\android\.idea\workspace.xml" timestamp="1646261705223" />
+    <file path="E:\systemnote\systemnote4\platforms\android\CordovaLib\CordovaLib.iml" timestamp="1646261705192" />
+    <file path="E:\systemnote\systemnote4\platforms\android\android.iml" timestamp="1646261145649" />
+    <file path="E:\systemnote\systemnote4\platforms\android\app\app.iml" timestamp="1646261705223" />
+  </project-files>
+</conversion>
+

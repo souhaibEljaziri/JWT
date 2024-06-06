@@ -1,0 +1,46 @@
+124:12:47.481145 dns-monitor Log continuation - Log started 2022-05-28T18:18:53.231634100Z
+124:12:47.483143 dns-monitor ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={0169423f-46b4-cde9-91af-1e9d5b6cd94a} aComponent={MemuHypervWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+124:12:47.483143 dns-monitor HostDnsMonitor: old information
+124:12:47.483143 dns-monitor   server 1: 192.168.201.180
+124:12:47.483143 dns-monitor   no domain set
+124:12:47.483143 dns-monitor   no search string entries
+124:12:47.483143 dns-monitor HostDnsMonitor: new information
+124:12:47.483143 dns-monitor   server 1: 192.168.207.166
+124:12:47.483143 dns-monitor   no domain set
+124:12:47.483143 dns-monitor   no search string entries
+124:12:47.484144 dns-monitor HostDnsMonitorProxy::notify
+124:40:09.547175 dns-monitor ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={0169423f-46b4-cde9-91af-1e9d5b6cd94a} aComponent={MemuHypervWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+124:40:09.547175 dns-monitor ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={0169423f-46b4-cde9-91af-1e9d5b6cd94a} aComponent={MemuHypervWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+124:40:09.547175 dns-monitor HostDnsMonitor: old information
+124:40:09.547175 dns-monitor   server 1: 192.168.207.166
+124:40:09.547175 dns-monitor   no domain set
+124:40:09.547175 dns-monitor   no search string entries
+124:40:09.547175 dns-monitor HostDnsMonitor: new information
+124:40:09.547175 dns-monitor   server 1: 192.168.125.18
+124:40:09.547175 dns-monitor   no domain set
+124:40:09.547175 dns-monitor   no search string entries
+124:40:09.547175 dns-monitor HostDnsMonitorProxy::notify
+125:10:07.779193 dns-monitor ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={0169423f-46b4-cde9-91af-1e9d5b6cd94a} aComponent={MemuHypervWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+125:10:07.779193 dns-monitor ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={0169423f-46b4-cde9-91af-1e9d5b6cd94a} aComponent={MemuHypervWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+125:40:06.840674 dns-monitor ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={0169423f-46b4-cde9-91af-1e9d5b6cd94a} aComponent={MemuHypervWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+125:40:06.841680 dns-monitor ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={0169423f-46b4-cde9-91af-1e9d5b6cd94a} aComponent={MemuHypervWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+126:10:05.884979 dns-monitor ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={0169423f-46b4-cde9-91af-1e9d5b6cd94a} aComponent={MemuHypervWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+126:10:05.884979 dns-monitor ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={0169423f-46b4-cde9-91af-1e9d5b6cd94a} aComponent={MemuHypervWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+126:40:04.918608 dns-monitor ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={0169423f-46b4-cde9-91af-1e9d5b6cd94a} aComponent={MemuHypervWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+126:40:04.918608 dns-monitor ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={0169423f-46b4-cde9-91af-1e9d5b6cd94a} aComponent={MemuHypervWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+127:10:04.951986 dns-monitor ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={0169423f-46b4-cde9-91af-1e9d5b6cd94a} aComponent={MemuHypervWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+127:10:04.951986 dns-monitor ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={0169423f-46b4-cde9-91af-1e9d5b6cd94a} aComponent={MemuHypervWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+127:36:02.319688 MainPower ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={0169423f-46b4-cde9-91af-1e9d5b6cd94a} aComponent={MemuHypervWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+127:36:02.321687 MainPower Host suspending: Paused 0 VMs
+137:50:27.215864 MainPower Host resumed: Resumed 0 VMs
+137:50:29.248689 dns-monitor ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={0169423f-46b4-cde9-91af-1e9d5b6cd94a} aComponent={MemuHypervWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+137:50:29.249689 dns-monitor ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={0169423f-46b4-cde9-91af-1e9d5b6cd94a} aComponent={MemuHypervWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+137:50:29.250688 dns-monitor HostDnsMonitor: old information
+137:50:29.250688 dns-monitor   server 1: 192.168.125.18
+137:50:29.250688 dns-monitor   no domain set
+137:50:29.250688 dns-monitor   no search string entries
+137:50:29.250688 dns-monitor HostDnsMonitor: new information
+137:50:29.250688 dns-monitor   no server entries
+137:50:29.250688 dns-monitor   no domain set
+137:50:29.250688 dns-monitor   no search string entries
+137:50:29.250688 dns-monitor HostDnsMonitorProxy::notify

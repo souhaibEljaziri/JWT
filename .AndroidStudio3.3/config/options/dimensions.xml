@@ -1,0 +1,19 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="691" y="338" />
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="471" y="79" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" x="137" y="17" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="378" y="186" />
+    <location key="#Servers.0.0.1366.768" x="397" y="126" />
+    <location key="SettingsEditor.0.0.1366.768" x="169" y="7" />
+    <location key="FileChooserDialogImpl.0.0.1367.768@120dpi" x="409" y="53" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1367.768@120dpi" x="304" y="139" />
+    <location key="deploy.picker.dialog.0.0.1367.768@120dpi" x="284" y="31" />
+    <location key="NewModule_or_Project.wizard.0.0.1366.768" x="448" y="205" />
+    <location key="ProcessPopupWindow.0.0.1366.768" x="895" y="544" />
+    <location key="IDE.errors.dialog.0.0.1366.768" x="263" y="97" />
+    <location key="#Project_Structure.0.0.1366.768" x="265" y="13" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" width="1092" height="705" />
+    <size key="ProcessPopupWindow.0.0.1366.768" width="400" height="190" />
+  </component>
+</application>

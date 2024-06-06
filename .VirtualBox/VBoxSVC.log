@@ -1,0 +1,59 @@
+00:00:00.003041 main     VirtualBox COM Server 6.0.4 r128413 win.amd64 (Jan 25 2019 18:13:23) release log
+00:00:00.003047 main     Log opened 2021-03-10T20:40:10.881197700Z
+00:00:00.003048 main     Build Type: release
+00:00:00.003056 main     OS Product: Windows 10
+00:00:00.003058 main     OS Release: 10.0.17763
+00:00:00.003059 main     OS Service Pack: 
+00:00:00.063210 main     DMI Product Name: X550JX
+00:00:00.074474 main     DMI Product Version: 1.0       
+00:00:00.074488 main     Host RAM: 8081MB (7.8GB) total, 3822MB (3.7GB) available
+00:00:00.074497 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.074498 main     Process ID: 7808
+00:00:00.074499 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.141507          VirtualBox: object creation starts
+00:00:00.142615          Home directory: 'C:\Users\souhaib\.VirtualBox'
+00:00:00.143022          Installed Drivers:
+00:00:00.149203            C:\WINDOWS\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.0.4.28413)
+00:00:00.149678            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.0.4.28413)
+00:00:00.149995            C:\WINDOWS\system32\DRIVERS\VBoxDrv.sys (Version: 6.0.4.28413)
+00:00:00.150489            C:\WINDOWS\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.0.4.28413)
+00:00:00.169891          Getting USB descriptor failed with error 31
+00:00:00.169959          Getting USB descriptor failed with error 31
+00:00:00.170019          Getting USB descriptor failed with error 31
+00:00:00.174526          USB: Unknown USB device detected (idVendor: 0x0bda, idProduct: 0x57b4)
+00:00:00.175096          USB: Unknown USB device detected (idVendor: 0x13d3, idProduct: 0x3408)
+00:00:00.294063          HostDnsMonitor::updateInfo
+00:00:00.294491          HostDnsMonitor: old information
+00:00:00.294492            no server entries
+00:00:00.294493            no domain set
+00:00:00.294493            no search string entries
+00:00:00.294494          HostDnsMonitor: new information
+00:00:00.294494            server 1: 192.168.1.1
+00:00:00.294495            no domain set
+00:00:00.294495            no search string entries
+00:00:00.367799          VD: VDInit finished with VINF_SUCCESS
+00:00:00.372296          VirtualBox: object created
+00:00:03.149449 USBPROXY Getting USB descriptor failed with error 31
+00:00:03.149560 USBPROXY Getting USB descriptor failed with error 31
+00:00:03.149646 USBPROXY Getting USB descriptor failed with error 31
+00:00:03.705515 USBPROXY Getting USB descriptor failed with error 31
+00:00:03.705604 USBPROXY Getting USB descriptor failed with error 31
+00:00:03.705661 USBPROXY Getting USB descriptor failed with error 31
+00:00:07.693545 USBPROXY Getting USB descriptor failed with error 31
+00:00:07.693677 USBPROXY Getting USB descriptor failed with error 31
+00:00:07.693785 USBPROXY Getting USB descriptor failed with error 31
+00:00:08.265058 USBPROXY Getting USB descriptor failed with error 31
+00:00:08.265142 USBPROXY Getting USB descriptor failed with error 31
+00:00:08.265202 USBPROXY Getting USB descriptor failed with error 31
+00:00:09.322278 dns-monitor HostDnsMonitor::updateInfo
+00:00:09.322299 dns-monitor HostDnsMonitor: unchanged
+00:00:11.421328          Saving settings file "C:\Users\souhaib\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:11.430018          Saving settings file "C:\Users\souhaib\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:11.599709          Saving settings file "C:\Users\souhaib\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:11.608724          Saving settings file "C:\Users\souhaib\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:11.616374          Saving settings file "C:\Users\souhaib\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:13.346990 dns-monitor HostDnsMonitor::updateInfo
+00:00:13.347024 dns-monitor HostDnsMonitor: unchanged
+00:00:16.746579 main     VirtualBox: object deletion starts
+00:00:16.754494 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:16.758181 main     VirtualBox: object deleted

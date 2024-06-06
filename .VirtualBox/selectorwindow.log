@@ -1,0 +1,17 @@
+00:00:00.767781 VirtualBox GUI VM Selector Window 6.0.4 r128413 win.amd64 (Jan 25 2019 18:13:23) release log
+00:00:00.767783 Log opened 2021-03-09T00:42:36.541735700Z
+00:00:00.767784 Build Type: release
+00:00:00.767788 OS Product: Windows 10
+00:00:00.767789 OS Release: 10.0.17763
+00:00:00.767789 OS Service Pack: 
+00:00:00.780144 DMI Product Name: X550JX
+00:00:00.785944 DMI Product Version: 1.0       
+00:00:00.785958 Host RAM: 8081MB (7.8GB) total, 1139MB available
+00:00:00.785970 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.785971 Process ID: 14756
+00:00:00.785972 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.786259 Qt version: 5.6.2
+00:00:00.840374 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.643270 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:01.677369 refreshCertificates/#1: RTCRX509POLICYQUALIFIERINFO::Qualifier: Bad IA5 string: ch=0x0  RTCRX509POLICYQUALIFIERINFO::Qualifier: Bad IA5 string: ch=0x0  RTCRX509POLICYQUALIFIERINFO::Qualifier: Bad IA5 string: ch=0x0  RTCRX509POLICYQUALIFIERINFO::Qualifier: Bad IA5 string: ch=0x0
+00:00:01.687200 refreshCertificates/#3: Found 1/105 SSL certs we/you trust (previously 0/0).
